@@ -1,10 +1,6 @@
 ![image](https://user-images.githubusercontent.com/86312641/192125749-c18d031f-0368-43cf-8a33-807c5815eb2d.png)
 ![image](https://user-images.githubusercontent.com/86312641/192125764-986d200f-e101-419b-9628-d2cde50e5d66.png)
 ![image](https://user-images.githubusercontent.com/86312641/192125781-ae740133-4282-4cac-bdcd-e36f50500169.png)
-![image](https://user-images.githubusercontent.com/86312641/192125795-b619ba4b-66ca-4fed-8700-70cfdd299bd0.png)
-
-================================================================================================================
-
 
 # Getting Started with Create React App
 
