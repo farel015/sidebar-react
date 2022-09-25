@@ -1,5 +1,9 @@
+# Desktop version
+
 ![image](https://user-images.githubusercontent.com/86312641/192125749-c18d031f-0368-43cf-8a33-807c5815eb2d.png)
-![image](https://user-images.githubusercontent.com/86312641/192125764-986d200f-e101-419b-9628-d2cde50e5d66.png)
+
+
+# Mobile Version
 ![image](https://user-images.githubusercontent.com/86312641/192125781-ae740133-4282-4cac-bdcd-e36f50500169.png)
 
 # Getting Started with Create React App
@@ -72,4 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# sidebar-react
+
